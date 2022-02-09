@@ -1,0 +1,7 @@
+dont use high level when you use bottom up
+inverse problem means you dont have a single solution to a problem
+
+aperture - how much light comes in a cameea
+why green dots are more on camera sensors
+
+A OpenCV x Python program which enhances the illumination in webcam images taken in low-light conditions
