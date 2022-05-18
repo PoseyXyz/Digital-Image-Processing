@@ -11,6 +11,6 @@ To run the program, you would need the following:
 ## Running the program
 If you have all these installed, simply open the project folder and run `python night_images.py`. 
 
-P.S When the webcam is open, you can simply take a snapshot for processing by hitting the spacebar button.
+**P.S When the webcam is open, you can simply take a snapshot for processing by hitting the spacebar button.
 
 
